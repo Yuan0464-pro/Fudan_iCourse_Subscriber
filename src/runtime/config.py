@@ -42,7 +42,7 @@ MODEL_PROVIDERS: list[dict] = [
         "base_url_env": "DEEPSEEK_BASE_URL",
         "default_base_url": "https://api.deepseek.com/v1",
         "models": [
-            "deepseek-v4-flash"
+            "deepseek-v4.1-flash"
         ],
     },
     # {
